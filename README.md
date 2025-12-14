@@ -52,11 +52,9 @@ streamlit run app.py
 - 🔹 Voice-based complaint logging
 - 🔹 Sentiment analysis for user feedback
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
 ## Contact
-For any inquiries or support, reach out via [your email or GitHub].
+For any inquiries or support, reach out via [rajraiesh5@gmail.com].
