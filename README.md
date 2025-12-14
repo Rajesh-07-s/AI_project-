@@ -4,10 +4,10 @@
 The **Train Complaint Bot** is an AI-powered chatbot designed to handle passenger complaints related to train travel. It processes issues such as **delays, cleanliness, security concerns, ticketing problems, and more**. The bot leverages **Large Language Models (LLMs)** to understand complaints and provide appropriate responses or escalate issues to railway authorities.
 
 ## Features
-- ✅ **Automated Complaint Handling** – Categorizes and processes complaints efficiently.
-- ✅ **Natural Language Understanding** – Uses an LLM to understand user inputs.
-- ✅ **Live Status Updates** – Fetches real-time train information (if APIs are integrated).
-- ✅ **User-Friendly UI** – Provides an animated and visually appealing interface.
+- **Automated Complaint Handling** – Categorizes and processes complaints efficiently.
+- **Natural Language Understanding** – Uses an LLM to understand user inputs.
+- **Live Status Updates** – Fetches real-time train information (if APIs are integrated).
+- **User-Friendly UI** – Provides an animated and visually appealing interface.
 
 ## Technologies Used
 - **Frontend:** Streamlit (Python UI framework)
